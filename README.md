@@ -21,8 +21,7 @@ DCGAN (Deep Convolutional GAN) with CelebA dataset
 ------------------
 ## Find latent vector for real images  
 ![latent_img](./images/DCGAN_CelebA_3.png)  
-
-------------------
+  
 ## Linearly mapping two images  
-![mapping_img](./images/DCGAN_CelebA_4.png)
-![mapping_gif](./images/DCGAN_CelebA_anim.gif)
+![mapping_img](./images/DCGAN_CelebA_4.png)  
+![mapping_gif](./images/DCGAN_CelebA_anim.gif)  
