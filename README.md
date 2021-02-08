@@ -8,7 +8,8 @@ DCGAN (Deep Convolutional GAN) with CelebA dataset
 ### Discriminator:  
 > 64x64x3 → 32x32x64 → 16x16x128 → 8x8x256 → 4x4x512 → 1x1x1
 
-### Gan Loss: CrossEntrophy (= Vanilla GAN)
+### Gan Loss:  
+> CrossEntrophy (= Vanilla GAN)
   
 ------------------
 ## Output Images  
